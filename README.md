@@ -7,6 +7,16 @@ A production-ready REST API backend for a Human Resource Management System (HRMS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Neon-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+## 🔗 Live Links
+
+| Resource                | Link                                                                                                                 |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Frontend Live**       | [https://hrms-frontend-vert-xi.vercel.app/](https://hrms-frontend-vert-xi.vercel.app/)                               |
+| **Backend Live**        | [https://hrms-backend-production-9132.up.railway.app/](https://hrms-backend-production-9132.up.railway.app/)         |
+| **Frontend Repository** | [https://github.com/gitbhaveshsharma/hrms-frontend.git](https://github.com/gitbhaveshsharma/hrms-frontend.git)       |
+| **Backend Repository**  | [https://github.com/gitbhaveshsharma/hrms-backend.git](https://github.com/gitbhaveshsharma/hrms-backend.git)         |
+| **API Documentation**   | [https://hrms-backend-production-9132.up.railway.app/docs](https://hrms-backend-production-9132.up.railway.app/docs) |
+
 ## 📋 Table of Contents
 
 - [Tech Stack](#-tech-stack)
