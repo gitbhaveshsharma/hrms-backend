@@ -25,7 +25,6 @@ engine = create_engine(
         "keepalives_idle": 30,
         "keepalives_interval": 10,
         "keepalives_count": 5,
-        "options": "-c statement_timeout=30000",  # 30s query timeout
     },
     echo=False,  # Disable SQL logging for better performance
     execution_options={

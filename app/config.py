@@ -51,6 +51,9 @@ class Settings(BaseSettings):
     # Environment
     environment: str = os.getenv("ENVIRONMENT", "development")
     
+    # Port (for Railway deployment)
+    port: int = int(os.getenv("PORT", "8000"))
+    
     @property
     def cors_origins_list(self) -> List[str]:
         """
